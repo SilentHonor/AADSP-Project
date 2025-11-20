@@ -1,5 +1,6 @@
 [SRB]
 
+
 Ovo je projekat za predmet "Algoritmi i Arhitekture DSP (Digital Signal Processing)-a"
 Folder "AADSP Projekat" sadrži standalone implementaciju specifične obrade audio stream-ova opisane šablonom u pdf dokumentu "zadatak02", koja je uključivala obrade kao što su gain, delay, sabiranje i inverzija signala
 Folder "HAOS_sim" sadrži implementaciju prethodno navedene obrade audio stream-ova, za simulaciju HAOS (Home Audio Operative System)-a
@@ -8,6 +9,7 @@ Pre pokretanja programa, potrebno je kao argumente komandne linije specificirati
 
 
 [ENG]
+
 
 This is a university project for the course "Architecture and algorithms for digital signal processors"
 The folder "AADSP Projekat" contains standalone implementation of a specific processing of audio streams described via schematic in the pdf document "zadatak02", which included processes such as gain, delay, signal addition and inversion
