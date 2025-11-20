@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Korisnik\Desktop\RA 203-2020\AADSP_Projekat\AADSP_Projekat\main.cpp(233,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AADSP_Projekat.vcxproj -> C:\Users\Korisnik\Desktop\RA 203-2020\AADSP_Projekat\x64\Debug\AADSP_Projekat.exe
